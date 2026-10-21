@@ -1,0 +1,43 @@
+{
+  "kind": "archival editorial metadata",
+  "conversation": "Research Stellar company opportunity",
+  "entries": [
+    {
+      "entry": "research-01",
+      "title": "Stellar company opportunities and Instaward-sized entry",
+      "date": "2026-10-20T10:21:04+00:00",
+      "source_turn": "01a158d4-3422-7b83-b8be-d74ab2d44d63",
+      "relation": "Initial investigation; retain its original payments-first conclusion as historical research.",
+      "source_report": "stellar-venture-investigation.md",
+      "prompt_message": "01a158d4-41a2-7ed0-9533-d8f25ac51cc9",
+      "final_messages": [
+        "msg_0791f13fd8208dcf016ad7453a2f9881919b11158c58c1fb24"
+      ]
+    },
+    {
+      "entry": "research-02",
+      "title": "Four-frontier reassessment: agents, RWA, DeFi and privacy",
+      "date": "2026-10-20T19:27:58+00:00",
+      "source_turn": "01a15ac8-e7e4-7900-b2e6-f90e2e911a0a",
+      "relation": "Explicit reassessment of research-01. It changes the leading discovery hypothesis to DeFi risk/recovery operations; it does not erase the first report.",
+      "source_report": "stellar-four-frontier-investigation.md",
+      "prompt_message": "01a15ac8-ee7b-72e2-8523-7f9ade25551c",
+      "final_messages": [
+        "msg_0791f13fd8208dcf016ad7c6824cac8191934061b23136e990"
+      ]
+    },
+    {
+      "entry": "research-03",
+      "title": "Bell / Protocol 30 opportunity reassessment",
+      "date": "2026-10-21T03:49:51+00:00",
+      "source_turn": "01a15c94-66e2-7972-aee6-ab5dfe59ab9e",
+      "relation": "Addendum to research-02 examining CAP-84/87/88. It retains the prior discovery order and adds a Bell-specific challenger.",
+      "source_report": "stellar-bell-protocol-30-addendum.md",
+      "prompt_message": "01a15c94-69d9-78f3-bc5d-b951621b753a",
+      "final_messages": [
+        "msg_0791f13fd8208dcf016ad8392b63948191842468a8dc3b5c65"
+      ]
+    }
+  ],
+  "privacy_edits": []
+}
