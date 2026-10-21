@@ -1,0 +1,17 @@
+ACCOUNTS=[
+"GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6", "GC5T3RH2VK3G44FIHMOZY5UGN56L52UYFGHKFUX6X2HNIGEZ2PFXMI23"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Ondo Finance"
+ORG_URL="https://ondo.finance"
+ORG_LOGO="https://cdn.ondo.finance/brand/logos/ondo-icon-black_160x160.png"
+
+[[CURRENCIES]]
+code="USDY"
+issuer="GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6"
+attestation_of_reserve="https://ondo.finance/usdy"
+redemption_instructions="Redeemable through an Ondo Finance account at https://app.ondo.finance/assets/usdy"
+name="Ondo US Dollar Yield"
+desc="USDY is a tokenized form of US Yield Bearing Bank Deposits. As time progresses the price of USDY will appreciate as yield is accrued to the holders, through the interest earned from the bank account."
+image="https://cdn.ondo.finance/tokens/logos/usdy_160x160.png"
