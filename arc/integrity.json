@@ -1,0 +1,77 @@
+{
+  "conversation": "01a14f59-020d-7ce3-bc92-2236ab651c0f",
+  "entries": 5,
+  "files": [
+    {
+      "file": "research-01/prompt.md",
+      "timestamp": "2026-10-18T14:09:59.577Z",
+      "original_characters": 5979,
+      "archived_body_sha256": "cb924d56e9da997d5591bedee23266336437d367c7ed185db5859c101966542e",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-01/result.md",
+      "timestamp": "2026-10-18T14:14:58.901Z",
+      "original_characters": 13871,
+      "archived_body_sha256": "1be1bc254dad5c6c22f827100e98bbd0c240fd0281bee5f2739bf6afcfc3d4c5",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-02/prompt.md",
+      "timestamp": "2026-10-18T16:56:24.144Z",
+      "original_characters": 7557,
+      "archived_body_sha256": "6f79139075733de325ef98d67618bbef9fca58cdb87b51b790d96977bec621d4",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-02/result.md",
+      "timestamp": "2026-10-18T17:06:47.668Z",
+      "original_characters": 19348,
+      "archived_body_sha256": "404d2521e913145c8f765b27965b3feec477919fde57977b5008d8e8d4e600d5",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-03/prompt.md",
+      "timestamp": "2026-10-18T17:22:46.469Z",
+      "original_characters": 4791,
+      "archived_body_sha256": "3dd12090daa8ffc4b8a0f544d05678a3ff3dc2266e56d38bfbff457fbf712014",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-03/result.md",
+      "timestamp": "2026-10-18T17:30:19.014Z",
+      "original_characters": 28141,
+      "archived_body_sha256": "ab1bd61fe685600b113a4bbe7b3f9047b50e52c26dc4e18c928074679286dd61",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-04/prompt.md",
+      "timestamp": "2026-10-18T22:00:59.286Z",
+      "original_characters": 8773,
+      "archived_body_sha256": "9753868df34650e48b46a82b705da33d4e66566c42698b3bca68be734fff3a81",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-04/result.md",
+      "timestamp": "2026-10-19T04:30:28.155Z",
+      "original_characters": 33916,
+      "archived_body_sha256": "aa24f9fa09b7b8df489bf453b13e1196c421be75a7e338e3f8bcc9f72742c9b5",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-05/prompt.md",
+      "timestamp": "2026-10-21T08:21:25.568Z",
+      "original_characters": 5282,
+      "archived_body_sha256": "9e269e756f04f525ba89538de4c81fa4f123d3092a44ed6b594dea6895d08440",
+      "body_unchanged": true
+    },
+    {
+      "file": "research-05/result.md",
+      "timestamp": "2026-10-21T08:30:34.364Z",
+      "original_characters": 28092,
+      "archived_body_sha256": "82a1f11acbade828384dbbe5576e7dec9138dfff2af5c828c5772d9ba4cd33c9",
+      "body_unchanged": true
+    }
+  ],
+  "redactions": []
+}
