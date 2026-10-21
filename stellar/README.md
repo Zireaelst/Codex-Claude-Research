@@ -29,7 +29,7 @@ This archive preserves **three chronological research rounds** from the conversa
 - No separate user-uploaded documents, images or binary attachments are exposed in the accessible history. The three available generated report attachments are included. No claim is made about inaccessible or deleted uploads.
 - Full historical web-page bodies, every tool result, and every intermediate version of overwritten report files are not available as archival artifacts. Source links and all retained public snapshots are preserved; this is not a complete browser/tool-session replay.
 - The accessible thread reader reported no earlier page. Its user-facing messages are preserved; internal reasoning, system/developer instructions, local runtime details and raw authentication context are intentionally excluded.
-- No Arc research was present in this conversation, and none has been invented or copied. The empty repository required a minimal root index commit before a PR could exist. The root Arc index is an explicitly empty placeholder until the separate Arc archive is added.
+- No Arc research was present in this conversation, and none has been invented or copied. The empty repository required a minimal root index commit before a PR could exist. A separate Arc branch appeared during final remote verification; the root README now links its index without copying or modifying its files.
 - External source links are retained as historical citations. Local Markdown targets are checked; external sources have not been researched again or guaranteed to remain live.
 
 ## Publication hygiene

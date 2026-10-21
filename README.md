@@ -11,4 +11,4 @@ This repository preserves research prompts, full reports, revisions and supporti
 
 ## Arc index
 
-No Arc index existed when this repository was initialized. This placeholder contains no Arc research. The Arc conversation can add its own directory and index independently.
+[Arc research index](https://github.com/Zireaelst/Codex-Claude-Research/blob/archive/arc-conversation-2026-10-21/arc/README.md) is available on the independently maintained Arc archive branch, pending its own merge. No Arc files are included or changed by the Stellar archive.
