@@ -1,0 +1,51 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://horizon.stellar.org/assets?asset_code=USDY\u0026asset_issuer=GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6\u0026cursor=\u0026limit=10\u0026order=asc"
+    },
+    "next": {
+      "href": "https://horizon.stellar.org/assets?asset_code=USDY\u0026asset_issuer=GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6\u0026cursor=USDY_GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6_credit_alphanum4\u0026limit=10\u0026order=asc"
+    },
+    "prev": {
+      "href": "https://horizon.stellar.org/assets?asset_code=USDY\u0026asset_issuer=GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6\u0026cursor=USDY_GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6_credit_alphanum4\u0026limit=10\u0026order=desc"
+    }
+  },
+  "_embedded": {
+    "records": [
+      {
+        "_links": {
+          "toml": {
+            "href": "https://ondo.finance/.well-known/stellar.toml"
+          }
+        },
+        "asset_type": "credit_alphanum4",
+        "asset_code": "USDY",
+        "asset_issuer": "GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6",
+        "paging_token": "USDY_GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6_credit_alphanum4",
+        "contract_id": "CB3YA656OYIHU57657I5KGSBRHE5I3OZU4VFC22PYAOANFZHEWNYGAGP",
+        "num_claimable_balances": 0,
+        "num_liquidity_pools": 46,
+        "num_contracts": 54,
+        "accounts": {
+          "authorized": 3203,
+          "authorized_to_maintain_liabilities": 0,
+          "unauthorized": 0
+        },
+        "claimable_balances_amount": "0.0000000",
+        "liquidity_pools_amount": "386.8676808",
+        "contracts_amount": "5879745.0494455",
+        "balances": {
+          "authorized": "461622019.7795499",
+          "authorized_to_maintain_liabilities": "0.0000000",
+          "unauthorized": "0.0000000"
+        },
+        "flags": {
+          "auth_required": false,
+          "auth_revocable": true,
+          "auth_immutable": false,
+          "auth_clawback_enabled": true
+        }
+      }
+    ]
+  }
+}
