@@ -1,0 +1,57 @@
+{
+  "source_conversation": "01a14f59-020d-7ce3-bc92-2236ab651c0f",
+  "research_checked_at": "2026-10-22",
+  "archival_policy": "Original user-facing messages preserved; project documents explicitly adapted to final dual-path decision. No raw logs or credentials exported.",
+  "original_messages": {
+    "prompt.md": {
+      "timestamp": "2026-10-22T16:47:16.733Z",
+      "characters": 5535,
+      "body_sha256": "970668894fd329518ac011e621421bcc65118134a7d95a06fa7445fefdca40f4",
+      "redactions": 0
+    },
+    "result.md": {
+      "timestamp": "2026-10-22T17:00:47.063Z",
+      "characters": 54026,
+      "body_sha256": "a0aa13d5a7394dedc42ee49bd5383d9048f8dddfe2a37db8c6059a0c5b050b6a",
+      "redactions": 0
+    },
+    "decision-original.md": {
+      "timestamp": "2026-10-22T17:39:38.411Z",
+      "characters": 210,
+      "body_sha256": "4f3ed56b5beb400ebd870c483f708707381863c1757c63f270056045281b1acc",
+      "redactions": 0
+    }
+  },
+  "files": {
+    "arc/projects/creator-token-launchpad/00-final-decision.md": "7feca79c95aa8fe4fab10c002147cbfd7cf349ded3c718730d0ea3b48aaab6be",
+    "arc/projects/creator-token-launchpad/01-market-and-positioning.md": "726dc31a3465385e3c130670e34317e74c0e2e06a6780db807ced22e9a7d2201",
+    "arc/projects/creator-token-launchpad/02-product-specification.md": "bad6dc79d6f2cbe2458fa7761f56dca682699ab1990b8e7a6a0ee2e7b0eb0419",
+    "arc/projects/creator-token-launchpad/03-chain-and-studio-capabilities.md": "cb8728125a01ecc646ffcfd700f3ee6fca06d54243a78b0d53214f74b3d4da7d",
+    "arc/projects/creator-token-launchpad/04-economics-and-lifecycles.md": "6e3e6d3c37b9d0c9686d808a73aa0fda65fda0fe8545ac1f01b1c89550a04974",
+    "arc/projects/creator-token-launchpad/05-contract-architecture.md": "0db882af7c1bc1230de1293ce43ae32deed4c0351c77ef4e14c4bda32af5a3ef",
+    "arc/projects/creator-token-launchpad/06-security-and-release-checklist.md": "61eccb45f0c98a8b111fdc4711da19e8895fc98df28e07aeae0dd4cdb32c00d7",
+    "arc/projects/creator-token-launchpad/07-delivery-roadmap.md": "6fc4f7b2e70fb4a48625dbb9fe89005a3d273380518245888e522426beded528",
+    "arc/projects/creator-token-launchpad/README.md": "2e8c979c827a963f1d2db2f5d87f8c6050bf81d8532e4efb64c993b20c68aaee",
+    "arc/projects/creator-token-launchpad/studio/README.md": "6c13e9d874ea50be9c6c5fec47b224e481521608460fd6fb9846d3ed0838a309",
+    "arc/projects/creator-token-launchpad/studio/commands.md": "6cfdabe06f8c5f64382fd3bf7dde0fc55778680119a30bdaf139e93d8dd6f2b9",
+    "arc/projects/creator-token-launchpad/studio/product-brief.md": "312a18b8305883ff397dd7430f7a369308993fb929c0a022038d3d5e6d977de8",
+    "arc/projects/creator-token-launchpad/studio/prompts/01-model.md": "172da2577ceed526f4e835bdf95fe76f56c5a68b7ad38ecda427930853aeee94",
+    "arc/projects/creator-token-launchpad/studio/prompts/02-token-registry.md": "ad0455a71cb8f90c67da76db583cb5160a75ba977fcd2f449b51b84190c23094",
+    "arc/projects/creator-token-launchpad/studio/prompts/03-v3-launch-lock.md": "2e730e6944ca3ce584eb5f821dd0a675f773f9a66bb7004cb29e83aa449e5a7b",
+    "arc/projects/creator-token-launchpad/studio/prompts/04-fee-treasury.md": "6a40ed5e1278057d9a1c9efd1dc68ba665450c1a2985a1f4606506b256ad7036",
+    "arc/projects/creator-token-launchpad/studio/prompts/05-work-escrow.md": "17e51b7a754f0e58fc8c3c04aac978f47422b2dae2b68c1adc31c7c4ead9b6a8",
+    "arc/projects/creator-token-launchpad/studio/prompts/06-curve.md": "8481bba5dd31678891626547f28c5090394c5fa1b3772786c9ea6cbeab61a6f4",
+    "arc/projects/creator-token-launchpad/studio/prompts/07-v4-graduation.md": "f811f4917812080ae51dfeee7875f5d76a6760a3ef06e3fb19893d120d06e52e",
+    "arc/projects/creator-token-launchpad/studio/prompts/08-hook-presets.md": "46272453082c84812b50f0c4930b5625655c5ee4f596059def90286f02fcf174",
+    "arc/projects/creator-token-launchpad/studio/prompts/09-contract-adversarial.md": "1d4be1c22a46a129b84e01660ef2e94e3b95f592b1d2c4144e3606a0d3f5eaaf",
+    "arc/projects/creator-token-launchpad/studio/prompts/10-app.md": "e1e4a9917208c0adf0582017aa80aecd67633b164c8f5b1cf9cdf1bea29b547f",
+    "arc/projects/creator-token-launchpad/studio/prompts/11-indexer.md": "2ff60b49b4df4597dda199f099bc1fbcef9db1372c74b1feea22b12101f38bcc",
+    "arc/projects/creator-token-launchpad/studio/prompts/12-integration.md": "ed9fc8628ad72c4bf2638e0f8118c3fc64a8aea91ecf133fe2a23d05d059a4ac",
+    "arc/projects/creator-token-launchpad/studio/prompts/13-release-review.md": "be2db140077f0a75cbe6ece81151651f97e112405f55fcec299aacdd81191692",
+    "arc/projects/creator-token-launchpad/studio/specification.md": "42efc2ba89e0534f27e24a8a7fd6a5585e6cc19e88f249d99c7464d0ea81f9fd",
+    "arc/research-06/decision-original.md": "64841e468237333f909696382f0a59385cba024dcc1e260b72d1d7e02893c1b5",
+    "arc/research-06/prompt.md": "86fc8cf7f97c2dba251098615501c6d3f2e7b6339fcb974f895919eb65873c37",
+    "arc/research-06/result.md": "17bcb74efc74359ac241d6d6a68258b996e8eb9d4623d749f8c3da60f4932616",
+    "arc/research-06/updates.md": "a15e5f1a479f70e0bcfcefd8aec32c24e6b57e4e43924be97a43ccb3802784cd"
+  }
+}
