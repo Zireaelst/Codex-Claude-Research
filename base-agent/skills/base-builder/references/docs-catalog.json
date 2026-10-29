@@ -1,0 +1,1165 @@
+{
+  "checked_date": "2026-10-29",
+  "source": "https://docs.base.org/llms-full.txt",
+  "sha256": "7fa83fae7eaed9ecee769885892ca56c5efeba4e1105cb1d40ad8d8fc0ce0a1e",
+  "bytes": 1463964,
+  "source_sections": 231,
+  "coverage": "All source URLs indexed; selected engineering pages reviewed in detail, not all examples executed.",
+  "pages": [
+    {
+      "url": "https://docs.base.org/get-started/base",
+      "chars": 1413,
+      "title": "Base"
+    },
+    {
+      "url": "https://docs.base.org/get-started/connect-to-base",
+      "chars": 1163,
+      "title": "Connect to Base"
+    },
+    {
+      "url": "https://docs.base.org/get-started/get-funds",
+      "chars": 1243,
+      "title": "Get Funds"
+    },
+    {
+      "url": "https://docs.base.org/get-started/make-a-transaction",
+      "chars": 1634,
+      "title": "Make a Transaction"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/network-information/ecosystem-bridges",
+      "chars": 8480,
+      "title": "Bridge to Base"
+    },
+    {
+      "url": "https://docs.base.org/get-started/integrate-defi",
+      "chars": 1487,
+      "title": "Integrate DeFi"
+    },
+    {
+      "url": "https://docs.base.org/get-started/issue-rwa",
+      "chars": 3090,
+      "title": "Tokenize Assets"
+    },
+    {
+      "url": "https://docs.base.org/get-started/issue-stablecoins",
+      "chars": 2151,
+      "title": "Issue a Stablecoin"
+    },
+    {
+      "url": "https://docs.base.org/get-started/accept-payments",
+      "chars": 5365,
+      "title": "Accept Payments"
+    },
+    {
+      "url": "https://docs.base.org/get-started/private-transactions",
+      "chars": 3770,
+      "title": "Private Transactions"
+    },
+    {
+      "url": "https://docs.base.org/get-started/resources-for-ai-agents",
+      "chars": 3452,
+      "title": "Resources for AI Agents"
+    },
+    {
+      "url": "https://docs.base.org/get-started/docs-mcp",
+      "chars": 1996,
+      "title": "MCP Server"
+    },
+    {
+      "url": "https://docs.base.org/get-started/docs-llms",
+      "chars": 1974,
+      "title": "Static Docs Files"
+    },
+    {
+      "url": "https://docs.base.org/get-started/base-batches",
+      "chars": 1513,
+      "title": "Base Batches"
+    },
+    {
+      "url": "https://docs.base.org/get-started/base-ecosystem-fund",
+      "chars": 1254,
+      "title": "Base Ecosystem Fund"
+    },
+    {
+      "url": "https://docs.base.org/get-started/builder-stack",
+      "chars": 42203,
+      "title": "Builder Stack"
+    },
+    {
+      "url": "https://docs.base.org/get-started/builders",
+      "chars": 5135,
+      "title": "Builders"
+    },
+    {
+      "url": "https://docs.base.org/get-started/creators",
+      "chars": 624,
+      "title": "Creators"
+    },
+    {
+      "url": "https://docs.base.org/get-started/base-chain",
+      "chars": 3695,
+      "title": "Base Protocol"
+    },
+    {
+      "url": "https://docs.base.org/get-started/sdks-and-apis",
+      "chars": 2098,
+      "title": "SDKs & APIs"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/overview",
+      "chars": 2014,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/test-on-vibenet",
+      "chars": 4546,
+      "title": "Test on Vibenet"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/run-a-local-devnet",
+      "chars": 16179,
+      "title": "Run a Local Devnet"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/assign-user-attributes",
+      "chars": 2672,
+      "title": "Assign User Attributes"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/integrate-defi/integrate-trading",
+      "chars": 5923,
+      "title": "Integrate Trading"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/integrate-defi/integrate-lending",
+      "chars": 4727,
+      "title": "Integrate Lending"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/integrate-defi/integrate-borrowing",
+      "chars": 5658,
+      "title": "Integrate Borrowing"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/integrate-defi/integrate-earn-product",
+      "chars": 2925,
+      "title": "Integrate an Earn Product"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/integrate-defi/list-tokenized-stocks",
+      "chars": 17318,
+      "title": "List Tokenized Stocks"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-rwa/create-an-asset-token",
+      "chars": 5115,
+      "title": "Create an Asset Token"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-rwa/issue-units",
+      "chars": 3738,
+      "title": "Issue Units to Holders"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-rwa/restrict-eligible-holders",
+      "chars": 4470,
+      "title": "Restrict Eligible Holders"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-rwa/restrict-transfer-initiators",
+      "chars": 8393,
+      "title": "Restrict Who Can Initiate Transfers"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-rwa/seize-and-cancel-units",
+      "chars": 9580,
+      "title": "Seize and Cancel Units"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-rwa/announce-a-distribution",
+      "chars": 10202,
+      "title": "Announce a Change to Holders"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-rwa/apply-a-multiplier",
+      "chars": 11733,
+      "title": "Apply a Multiplier"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-rwa/pause-transfers",
+      "chars": 3846,
+      "title": "Pause Transfers"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-stablecoins/issue-your-stablecoin",
+      "chars": 4995,
+      "title": "Issue Your Stablecoin"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-stablecoins/mint-supply",
+      "chars": 2811,
+      "title": "Mint Supply"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-stablecoins/burn-supply",
+      "chars": 2914,
+      "title": "Burn Supply"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-stablecoins/restrict-who-can-hold",
+      "chars": 5750,
+      "title": "Restrict Who Can Hold It"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-stablecoins/block-an-account",
+      "chars": 4112,
+      "title": "Block an Account"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-stablecoins/recover-funds",
+      "chars": 8523,
+      "title": "Recover Funds"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-stablecoins/pause-activity",
+      "chars": 3527,
+      "title": "Pause Activity"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/issue-stablecoins/reconcile-with-memos",
+      "chars": 3121,
+      "title": "Reconcile with Memos"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/make-a-simple-payment",
+      "chars": 2050,
+      "title": "Make a Simple Payment"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/request-a-payment",
+      "chars": 3603,
+      "title": "Request a Payment"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/authorize-a-payment",
+      "chars": 3339,
+      "title": "Authorize a Payment"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/capture-an-authorization",
+      "chars": 4435,
+      "title": "Capture an Authorization"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/charge-on-a-schedule",
+      "chars": 3068,
+      "title": "Charge on a Schedule"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/verify-a-payment",
+      "chars": 3101,
+      "title": "Verify a Payment"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/watch-for-payments",
+      "chars": 3091,
+      "title": "Watch for Payments"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/reconcile-payments",
+      "chars": 3205,
+      "title": "Reconcile Payments"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/refund-a-payment",
+      "chars": 3348,
+      "title": "Refund a Payment"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/void-an-authorization",
+      "chars": 3169,
+      "title": "Void an Authorization"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/send-a-payout",
+      "chars": 3202,
+      "title": "Send a Payout"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/split-a-payment",
+      "chars": 3599,
+      "title": "Split a Payment"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/charge-for-an-api",
+      "chars": 3328,
+      "title": "Charge for an API"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/settle-usage-based-payments",
+      "chars": 3007,
+      "title": "Settle Usage-Based Payments"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/batch-high-frequency-payments",
+      "chars": 3109,
+      "title": "Batch High-Frequency Payments"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/accept-payments/call-a-paid-service",
+      "chars": 2895,
+      "title": "Call a Paid Service"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/ledgers/deposit",
+      "chars": 1483,
+      "title": "Deposit to a Ledger"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/ledgers/transfer",
+      "chars": 1458,
+      "title": "Transfer Inside a Ledger"
+    },
+    {
+      "url": "https://docs.base.org/build-on-base/ledgers/withdraw",
+      "chars": 1500,
+      "title": "Withdraw From a Ledger"
+    },
+    {
+      "url": "https://docs.base.org/specifications/overview",
+      "chars": 1416,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/overview",
+      "chars": 13880,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/consensus/specification",
+      "chars": 3184,
+      "title": "Specification"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/consensus/derivation",
+      "chars": 62163,
+      "title": "Derivation"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/consensus/p2p",
+      "chars": 21840,
+      "title": "P2P"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/consensus/rpc",
+      "chars": 2711,
+      "title": "RPC"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/execution/l2-execution-engine",
+      "chars": 24621,
+      "title": "L2 Execution Engine"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/execution/precompiles",
+      "chars": 3674,
+      "title": "Precompiles"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/execution/predeploys",
+      "chars": 16395,
+      "title": "Predeploys"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/execution/preinstalls",
+      "chars": 13187,
+      "title": "Preinstalls"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/bridging/standard-bridges",
+      "chars": 2876,
+      "title": "Standard Bridges"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/bridging/deposits",
+      "chars": 26862,
+      "title": "Deposits"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/bridging/withdrawals",
+      "chars": 15131,
+      "title": "Withdrawals"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/bridging/cross-domain-messengers",
+      "chars": 5037,
+      "title": "Cross Domain Messengers"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/bridging/base-solana-bridge",
+      "chars": 13071,
+      "title": "Base-Solana Bridge"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/batcher",
+      "chars": 13168,
+      "title": "Batcher"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/proofs/overview",
+      "chars": 1475,
+      "title": "Proofs"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/proofs/challenger",
+      "chars": 13744,
+      "title": "Challenger"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/proofs/proposer",
+      "chars": 12820,
+      "title": "Proposer"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/proofs/registrar",
+      "chars": 15919,
+      "title": "Registrar"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/proofs/tee-prover",
+      "chars": 19787,
+      "title": "TEE Prover"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/proofs/zk-prover",
+      "chars": 16100,
+      "title": "ZK Prover"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/proofs/proof-contracts",
+      "chars": 31645,
+      "title": "Proof Contracts"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-protocol/design-goals",
+      "chars": 1052,
+      "title": "Design Goals"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/index",
+      "chars": 3395,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/introduction",
+      "chars": 9317,
+      "title": "Introduction"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/concepts/token-types",
+      "chars": 8782,
+      "title": "Token Types"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/concepts/policies",
+      "chars": 24560,
+      "title": "Policies"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/concepts/roles-and-pause",
+      "chars": 14024,
+      "title": "Roles and Pause"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/concepts/multipliers",
+      "chars": 6877,
+      "title": "UI Multipliers"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/reference/interfaces",
+      "chars": 3341,
+      "title": "Interfaces"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/reference/constants",
+      "chars": 6624,
+      "title": "Constants"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/reference/errors",
+      "chars": 9849,
+      "title": "Errors"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/reference/events",
+      "chars": 7883,
+      "title": "Events"
+    },
+    {
+      "url": "https://docs.base.org/specifications/b20/changelog",
+      "chars": 5584,
+      "title": "Changelog"
+    },
+    {
+      "url": "https://docs.base.org/specifications/base-transactions",
+      "chars": 13955,
+      "title": "Base Transactions"
+    },
+    {
+      "url": "https://docs.base.org/specifications/transactions/transaction-ordering",
+      "chars": 2862,
+      "title": "Transaction Ordering"
+    },
+    {
+      "url": "https://docs.base.org/specifications/transactions/transaction-finality",
+      "chars": 5461,
+      "title": "Transaction Finality"
+    },
+    {
+      "url": "https://docs.base.org/specifications/transactions/network-fees",
+      "chars": 5596,
+      "title": "Network Fees"
+    },
+    {
+      "url": "https://docs.base.org/specifications/transactions/throughput-and-limits",
+      "chars": 4266,
+      "title": "Throughput and Limits"
+    },
+    {
+      "url": "https://docs.base.org/specifications/transactions/troubleshooting-transactions",
+      "chars": 5358,
+      "title": "Troubleshooting Transactions"
+    },
+    {
+      "url": "https://docs.base.org/specifications/flashblocks",
+      "chars": 14726,
+      "title": "Flashblocks"
+    },
+    {
+      "url": "https://docs.base.org/specifications/builder-codes/overview",
+      "chars": 4458,
+      "title": "Base Builder Codes"
+    },
+    {
+      "url": "https://docs.base.org/specifications/builder-codes/for-app-developers",
+      "chars": 20230,
+      "title": "Builder Codes for App Developers"
+    },
+    {
+      "url": "https://docs.base.org/specifications/builder-codes/for-wallet-developers",
+      "chars": 2610,
+      "title": "Builder Codes for Wallet Developers"
+    },
+    {
+      "url": "https://docs.base.org/specifications/builder-codes/for-agent-developers",
+      "chars": 3415,
+      "title": "Builder Codes for Agent Developers"
+    },
+    {
+      "url": "https://docs.base.org/specifications/build-transaction/validity-transactions",
+      "chars": 2294,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/specifications/build-transaction/build-a-validity-transaction",
+      "chars": 3560,
+      "title": "Build a Validity Transaction"
+    },
+    {
+      "url": "https://docs.base.org/specifications/build-transaction/base_sendRawTransactionValidity",
+      "chars": 2972,
+      "title": "Validity Transaction RPC"
+    },
+    {
+      "url": "https://docs.base.org/specifications/build-transaction/fees-ordering-and-lifecycle",
+      "chars": 1225,
+      "title": "Fees, Ordering, and Lifecycle"
+    },
+    {
+      "url": "https://docs.base.org/specifications/build-transaction/predicates-and-safety",
+      "chars": 3337,
+      "title": "Predicates and Safety"
+    },
+    {
+      "url": "https://docs.base.org/specifications/build-transaction/troubleshooting",
+      "chars": 1748,
+      "title": "Troubleshooting"
+    },
+    {
+      "url": "https://docs.base.org/specifications/reference/base-contracts",
+      "chars": 19943,
+      "title": "Contract Addresses"
+    },
+    {
+      "url": "https://docs.base.org/specifications/reference/smart-contracts",
+      "chars": 4803,
+      "title": "Smart Contracts"
+    },
+    {
+      "url": "https://docs.base.org/specifications/reference/configuration",
+      "chars": 6718,
+      "title": "Configuration"
+    },
+    {
+      "url": "https://docs.base.org/specifications/reference/glossary",
+      "chars": 37023,
+      "title": "Glossary"
+    },
+    {
+      "url": "https://docs.base.org/specifications/node-operators/run-a-node",
+      "chars": 11216,
+      "title": "Run a Node"
+    },
+    {
+      "url": "https://docs.base.org/specifications/node-operators/performance-tuning",
+      "chars": 2112,
+      "title": "Node Performance"
+    },
+    {
+      "url": "https://docs.base.org/specifications/node-operators/snapshots",
+      "chars": 9150,
+      "title": "Node Snapshots"
+    },
+    {
+      "url": "https://docs.base.org/specifications/node-operators/troubleshooting",
+      "chars": 9136,
+      "title": "Node Troubleshooting"
+    },
+    {
+      "url": "https://docs.base.org/specifications/security/security-council-for-base",
+      "chars": 8478,
+      "title": "Security Council for Base"
+    },
+    {
+      "url": "https://docs.base.org/specifications/security/reliability-and-liveness",
+      "chars": 5649,
+      "title": "Reliability and Liveness"
+    },
+    {
+      "url": "https://docs.base.org/specifications/security/avoid-malicious-flags",
+      "chars": 2807,
+      "title": "How to Avoid Getting Your App Flagged as Malicious"
+    },
+    {
+      "url": "https://docs.base.org/specifications/security/report-a-vulnerability",
+      "chars": 1642,
+      "title": "Reporting Vulnerabilities"
+    },
+    {
+      "url": "https://docs.base.org/sdks/overview",
+      "chars": 2173,
+      "title": "SDKs & APIs"
+    },
+    {
+      "url": "https://docs.base.org/sdks/base-anvil",
+      "chars": 3749,
+      "title": "Foundry for Base"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/rpc-overview",
+      "chars": 9118,
+      "title": "Base RPC Overview"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_blockNumber",
+      "chars": 498,
+      "title": "eth_blockNumber"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_call",
+      "chars": 3692,
+      "title": "eth_call"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_chainId",
+      "chars": 707,
+      "title": "eth_chainId"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_estimateGas",
+      "chars": 3017,
+      "title": "eth_estimateGas"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_feeHistory",
+      "chars": 2849,
+      "title": "eth_feeHistory"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_gasPrice",
+      "chars": 746,
+      "title": "eth_gasPrice"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getBalance",
+      "chars": 1481,
+      "title": "eth_getBalance"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getBlockByHash",
+      "chars": 2524,
+      "title": "eth_getBlockByHash"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getBlockByNumber",
+      "chars": 7518,
+      "title": "eth_getBlockByNumber"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getBlockReceipts",
+      "chars": 2411,
+      "title": "eth_getBlockReceipts"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getBlockTransactionCountByHash",
+      "chars": 764,
+      "title": "eth_getBlockTransactionCountByHash"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getBlockTransactionCountByNumber",
+      "chars": 870,
+      "title": "eth_getBlockTransactionCountByNumber"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getCode",
+      "chars": 1525,
+      "title": "eth_getCode"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getLogs",
+      "chars": 5186,
+      "title": "eth_getLogs"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getStorageAt",
+      "chars": 1662,
+      "title": "eth_getStorageAt"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getTransactionByBlockHashAndIndex",
+      "chars": 1794,
+      "title": "eth_getTransactionByBlockHashAndIndex"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getTransactionByBlockNumberAndIndex",
+      "chars": 1785,
+      "title": "eth_getTransactionByBlockNumberAndIndex"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getTransactionByHash",
+      "chars": 5160,
+      "title": "eth_getTransactionByHash"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getTransactionCount",
+      "chars": 1778,
+      "title": "eth_getTransactionCount"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_getTransactionReceipt",
+      "chars": 6429,
+      "title": "eth_getTransactionReceipt"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_maxPriorityFeePerGas",
+      "chars": 639,
+      "title": "eth_maxPriorityFeePerGas"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_sendRawTransaction",
+      "chars": 2873,
+      "title": "eth_sendRawTransaction"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_subscribe",
+      "chars": 5193,
+      "title": "eth_subscribe"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_syncing",
+      "chars": 938,
+      "title": "eth_syncing"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/eth_unsubscribe",
+      "chars": 918,
+      "title": "eth_unsubscribe"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/net_version",
+      "chars": 545,
+      "title": "net_version"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/ethereum-json-rpc-api/web3_clientVersion",
+      "chars": 843,
+      "title": "web3_clientVersion"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/flashblocks-api/flashblocks-api-overview",
+      "chars": 10964,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/flashblocks-api/base_transactionStatus",
+      "chars": 1355,
+      "title": "base_transactionStatus"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/flashblocks-api/eth_simulateV1",
+      "chars": 5937,
+      "title": "eth_simulateV1"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/flashblocks-api/newFlashblockTransactions",
+      "chars": 6335,
+      "title": "newFlashblockTransactions"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/flashblocks-api/newFlashblocks",
+      "chars": 2391,
+      "title": "newFlashblocks"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/flashblocks-api/pendingLogs",
+      "chars": 2031,
+      "title": "pendingLogs"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/debug-api/debug_traceTransaction",
+      "chars": 5680,
+      "title": "debug_traceTransaction"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/debug-api/debug_traceBlockByHash",
+      "chars": 2080,
+      "title": "debug_traceBlockByHash"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/api-reference/debug-api/debug_traceBlockByNumber",
+      "chars": 1291,
+      "title": "debug_traceBlockByNumber"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/overview",
+      "chars": 5739,
+      "title": "Tokenized Stocks API"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/api-reference/list-tokenized-stocks",
+      "chars": 1156,
+      "title": "List Tokenized Stocks"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/api-reference/list-protocol-contract-addresses",
+      "chars": 196,
+      "title": "List Protocol Contract Addresses"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/api-reference/get-token-total-supply",
+      "chars": 758,
+      "title": "Get Token Total Supply"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/api-reference/get-token-metadata",
+      "chars": 692,
+      "title": "Get Token Metadata"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/api-reference/get-token-icon",
+      "chars": 650,
+      "title": "Get Token Icon"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/api-reference/get-token-prospectus",
+      "chars": 850,
+      "title": "Get Token Prospectus"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/api-reference/list-cached-prospectuses",
+      "chars": 783,
+      "title": "List Cached Prospectuses"
+    },
+    {
+      "url": "https://docs.base.org/sdks/tokenized-stocks/api-reference/get-corporate-action",
+      "chars": 1521,
+      "title": "Get Corporate Action"
+    },
+    {
+      "url": "https://docs.base.org/sdks/base-verify/overview",
+      "chars": 2165,
+      "title": "Base Verify API"
+    },
+    {
+      "url": "https://docs.base.org/sdks/base-verify/verify-social-accounts",
+      "chars": 28446,
+      "title": "Verify Social Accounts"
+    },
+    {
+      "url": "https://docs.base.org/sdks/base-verify/verify-users-onchain",
+      "chars": 25936,
+      "title": "Verify Users Onchain"
+    },
+    {
+      "url": "https://docs.base.org/sdks/migrated-products",
+      "chars": 1240,
+      "title": "Base Account and Base MCP Have Moved"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/overview",
+      "chars": 5923,
+      "title": "Upgrades"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/network-information/configuration-changelog",
+      "chars": 3904,
+      "title": "Configuration Changelog"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/everest/overview",
+      "chars": 755,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/denim/overview",
+      "chars": 2291,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/denim/200ms-blocks",
+      "chars": 12954,
+      "title": "200ms Native Blocks"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/denim/migrate-from-flashblocks",
+      "chars": 3020,
+      "title": "Migrate From Flashblocks"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/specs/reference/b20/changelog/03-denim-b20-token-receiver",
+      "chars": 5769,
+      "title": "B20: Reject the Token Itself as a Credit Recipient"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/specs/reference/b20/changelog/03-denim-b20-transfer-executor-enforcement",
+      "chars": 7095,
+      "title": "B20: Transfer Executor Policy Enforcement"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/specs/reference/b20/changelog/03-denim-policyregistry-not-policy",
+      "chars": 8682,
+      "title": "PolicyRegistry: NOT / Invert Policies"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/cobalt/overview",
+      "chars": 2156,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/cobalt/dynamic-upgrades",
+      "chars": 1080,
+      "title": "Dynamic Upgrades"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/specs/reference/b20/changelog/02-cobalt-b20asset-multiplier",
+      "chars": 9380,
+      "title": "B20: ERC-8056 Conformant Multiplier"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/specs/reference/b20/changelog/02-cobalt-b20-seize",
+      "chars": 9372,
+      "title": "B20: Seize Functionality"
+    },
+    {
+      "url": "https://docs.base.org/base-chain/specs/reference/b20/changelog/02-cobalt-policyregistry-composite-policy",
+      "chars": 15222,
+      "title": "PolicyRegistry: Composite Policies (UNION / INTERSECT)"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/cobalt/validity-transactions",
+      "chars": 293,
+      "title": "Validity Transactions"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/beryl/overview",
+      "chars": 1194,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/beryl/reth-v2",
+      "chars": 676,
+      "title": "Reth V2"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/beryl/reducing-canonical-withdrawal-delay",
+      "chars": 720,
+      "title": "Faster Withdrawals"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/beryl/b20",
+      "chars": 15648,
+      "title": "B20 Native Token Standard"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/azul/overview",
+      "chars": 2907,
+      "title": "Overview"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/azul/node-upgrade",
+      "chars": 6196,
+      "title": "Node Upgrade Guide"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/azul/exec-engine",
+      "chars": 5428,
+      "title": "Execution Engine"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/azul/proofs",
+      "chars": 7262,
+      "title": "Proof System"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/jovian/overview",
+      "chars": 1059,
+      "title": "Jovian"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/jovian/exec-engine",
+      "chars": 8186,
+      "title": "Jovian: Execution Engine"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/jovian/derivation",
+      "chars": 8136,
+      "title": "Derivation"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/jovian/l1-attributes",
+      "chars": 2111,
+      "title": "L1 Block Attributes"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/jovian/system-config",
+      "chars": 3474,
+      "title": "Jovian: System Config"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/isthmus/overview",
+      "chars": 1822,
+      "title": "Isthmus"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/isthmus/exec-engine",
+      "chars": 13928,
+      "title": "L2 Execution Engine"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/isthmus/derivation",
+      "chars": 14557,
+      "title": "Isthmus L2 Chain Derivation Changes"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/isthmus/l1-attributes",
+      "chars": 2062,
+      "title": "L1 Block Attributes"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/isthmus/predeploys",
+      "chars": 1196,
+      "title": "Predeploys"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/isthmus/system-config",
+      "chars": 2615,
+      "title": "Isthmus: System Config"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/holocene/overview",
+      "chars": 698,
+      "title": "Holocene"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/holocene/exec-engine",
+      "chars": 4546,
+      "title": "L2 Execution Engine"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/holocene/derivation",
+      "chars": 20965,
+      "title": "Holocene L2 Chain Derivation Changes"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/holocene/system-config",
+      "chars": 2437,
+      "title": "System Config"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/granite/overview",
+      "chars": 629,
+      "title": "Granite"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/granite/exec-engine",
+      "chars": 500,
+      "title": "L2 Execution Engine"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/granite/derivation",
+      "chars": 614,
+      "title": "Granite L2 Chain Derivation Changes"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/fjord/overview",
+      "chars": 1322,
+      "title": "Fjord"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/fjord/exec-engine",
+      "chars": 4059,
+      "title": "L2 Execution Engine"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/fjord/derivation",
+      "chars": 11847,
+      "title": "Fjord L2 Chain Derivation Changes"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/fjord/predeploys",
+      "chars": 2908,
+      "title": "Predeploys"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/ecotone/overview",
+      "chars": 2570,
+      "title": "Ecotone"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/ecotone/derivation",
+      "chars": 13971,
+      "title": "Derivation"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/ecotone/l1-attributes",
+      "chars": 6306,
+      "title": "Ecotone L1 Attributes"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/delta/overview",
+      "chars": 619,
+      "title": "Delta"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/delta/span-batches",
+      "chars": 20710,
+      "title": "Span-Batches"
+    },
+    {
+      "url": "https://docs.base.org/upgrades/canyon/overview",
+      "chars": 2191,
+      "title": "Canyon"
+    }
+  ]
+}

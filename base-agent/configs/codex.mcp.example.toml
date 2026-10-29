@@ -1,0 +1,4 @@
+# Merge only if a base-docs entry does not already exist.
+# This is an example, not automatically active configuration.
+[mcp_servers.base-docs]
+url = "https://docs.base.org/mcp"

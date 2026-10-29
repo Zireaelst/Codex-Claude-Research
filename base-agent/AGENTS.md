@@ -1,0 +1,3 @@
+# Base Agent package maintenance
+
+This directory is a reusable guidance package, not a deployed application. Preserve portability across Codex and Claude Code. The canonical skill is `skills/base-builder/SKILL.md`; installer copies it to project-specific discovery locations. Do not claim configuration files prove live connections. Keep installation project-scoped, previewable and non-destructive. Run `python3 -m unittest discover -s base-agent/tests -v` from the repository root after changing the installer. Record actual source and behavioral checks under evaluations; never fabricate baseline failures or passing runtime tests. Do not modify historical Arc/Stellar research to install this package.

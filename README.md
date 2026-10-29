@@ -18,3 +18,8 @@ This repository preserves research prompts, full reports, revisions and supporti
 ## Independent EVM product specification
 
 [EVM Launchpad Project Idea](evm-launchpad-project-idea/README.md) — standalone, v4-first programmable launchpad with v3 instant launches, existing-token pools, complete product requirements and a coding-agent handoff. Independent of the historical Arc implementation; documentation only.
+
+
+## Base Agent Kit
+
+[Base Agent](base-agent/README.md): portable Codex / Claude Code skill, Base Docs MCP setup, launchpad and consumer prediction profiles, offline project installer and verification evidence. Start with [session prompts](base-agent/START_HERE.md).

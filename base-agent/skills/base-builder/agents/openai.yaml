@@ -1,0 +1,6 @@
+interface:
+  display_name: "Base Builder"
+  short_description: "Base engineering for launchpads and consumer apps"
+  default_prompt: "Use $base-builder to implement the next verified Base development task in this project."
+policy:
+  allow_implicit_invocation: true
