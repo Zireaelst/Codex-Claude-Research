@@ -64,7 +64,7 @@ Dexscreener/GeckoTerminal'de görünmez, cüzdanda görünmez, paylaşılamaz. B
 
 ## 3. Revize plan
 
-Revize plan, rakip karşılaştırmasıyla birlikte [`01-launchpad-rakip-analizi-ve-roadmap.md`](01-launchpad-rakip-analizi-ve-roadmap.md) dosyasına taşındı. Özet: F1 (H2–4) canlı MVP → F2 (H5–8) dağıtım ve **grant başvurusu** → F3 curve modu + audit → F4 v1'deki L2/L3 kapsamı.
+Revize plan, rakip karşılaştırmasıyla birlikte [`01-launchpad-rakip-analizi-ve-roadmap.md`](01-launchpad-rakip-analizi-ve-roadmap.md) dosyasına taşındı. Özet (v3): F1 (H2–4) Uniswap Liquidity Launcher'ın audit'li kontratlarının kendi instance'ımızla canlı MVP → F2 (H5–8) dağıtım, ekstralar ve **grant başvurusu** → F3 (H9–18) kendi v4 hook'umuzla özel launch + audit → F4 genişleme.
 
 ---
 
@@ -73,7 +73,7 @@ Revize plan, rakip karşılaştırmasıyla birlikte [`01-launchpad-rakip-analizi
 > ⚠️ Sayıları asla tahmin/şişirme ile doldurma; Base ekibi on-chain doğrulayabilir. Gerçek veri yoksa başvuruyu birkaç hafta ertele.
 
 **Project name + one-line description**
-> [Name] — the Base token launchpad where creators earn the most: launch in one click from the Base App or socials, earn 70% of every trade's fee in ETH, with locked liquidity and a clear rules card traders see before they buy.
+> [Name] — the cheapest and most creator-friendly way to launch a token on Base: one-click launch on audited Uniswap Liquidity Launcher contracts, permanently locked liquidity, 60% of every trading fee paid to the creator in ETH, and a clear rules card traders see before they buy.
 
 **Tell us about the founding team**
 > [Name 1] — [role], [background: e.g., Solidity/EVM experience, prior protocols, hackathon wins]. [Name 2] — [role], [full-stack/product background]. [Funding raised: e.g., "Bootstrapped, no outside funding"]. Domain expertise: [Uniswap v4 hooks, launch mechanics research, previous Arc/Stellar launchpad implementations].
@@ -88,11 +88,11 @@ Revize plan, rakip karşılaştırmasıyla birlikte [`01-launchpad-rakip-analizi
 > All-time users: [X] unique wallets · DAU: [X] · WAU: [X] · All-time volume: $[X] · Last 30 days: $[X] · [N] tokens launched, [N] creators claimed fees. Dashboard: [Dune link]. (Team/test wallets excluded.)
 
 **How does your product make money today?**
-> Every trade on a launched token's pool pays a fixed 1% fee, paid in WETH: 70% to the creator, 30% to the protocol. No platform token. To date: $[X] protocol revenue, $[X] paid out to creators.
+> Every trade on a launched token's pool pays a 0.25% LP fee, split by an immutable on-chain fee splitter: 60% to the creator (in ETH), 40% to the platform. Custom launches with our own audited v4 hook (coming next) let creators choose up to 1%. No platform token. To date: $[X] platform revenue, $[X] paid out to creators.
 
 **GTM plan for the next 3 months**
-> 1) Creator pipeline: onboard [20] creators/communities from Farcaster and X with 1:1 launch support; each launch comes with a shareable rules card.
-> 2) Distribution: ship a Base App / Farcaster mini app so tokens can be launched and traded inside the feed; [X bot] for launch-by-mention.
+> 1) Creator pipeline: onboard [20] creators/communities from X, Telegram and Farcaster with 1:1 launch support; gas-sponsored first launch; each launch comes with a shareable rules card.
+> 2) Distribution: with the Base App now a trading-focused wallet that opens standard web apps, we ship a fast web app listed on Base.dev that works natively in the Base App browser, plus X and Telegram bots for launch-by-mention.
 > 3) Creator earnings as the hook: public leaderboard of fees earned by creators, weekly "creator payout" posts.
 > 4) Integrations: get indexed on Dexscreener/GeckoTerminal and aggregators; listing on Base ecosystem pages.
 > Targets by end of month 3: [X] launches, [X] WAU, $[X] monthly volume, [X]% of creators launching a second token.
